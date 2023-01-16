@@ -42,3 +42,8 @@ main section h6{
 #foto-lee img{
     display: inline-block;
 }
+#foto-lee p{
+    color: grey;
+    font-size: xx-small;
+    margin: 0;
+}
