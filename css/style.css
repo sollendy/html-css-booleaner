@@ -11,10 +11,11 @@ header div{
     background-color: rgb(0, 166, 255);
     background-image: url(/img/pattern.png);
     background-size: contain;
-
+    margin-bottom: 10px;
 }
 header h5{
     color: grey;
+    margin-top: 10px;
 }
 h5 span{
     color: rgb(117, 212, 244);
