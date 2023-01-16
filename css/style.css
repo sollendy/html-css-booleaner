@@ -1,15 +1,17 @@
 body{
-    width: 850px;
+    margin: 0;
 }
 
-header div p{
-    color: whitesmoke;
+#logo{
+    height: 100px;
+    width: 180px;
+    padding-top: 10px;
 }
 
 header div{
     height: 80px;
     background-color: rgb(0, 166, 255);
-    background-image: url(/img/pattern.png);
+    background-image: url(../img/pattern.png);
     background-size: contain;
     margin-bottom: 10px;
 }
