@@ -56,16 +56,37 @@ table{
     border-spacing: 0;
     text-align: left;
 }
+
 thead{
     background-color: rgb(0, 170, 255);
 
 }
+
 th{
     color: white;
 }
+
 .righe-colorate{
     background-color: rgb(47, 255, 234);
 }
+
 .primacol{
     width: 20%;
+}
+
+#img1{
+    font-size: large;
+    color: white;
+    height: 200px;
+    width: 310px;
+    background-image: url(../img/monitor.jpg);
+}
+
+#img2{
+    font-size: large;
+    color: white;
+    height: 200px;
+    width: 310px;
+    background-image: url(../img/graph.jpg);
+    margin-top: 10px;
 }
