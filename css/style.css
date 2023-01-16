@@ -1,3 +1,7 @@
+body{
+    width: 850px;
+}
+
 header div{
     height: 80px;
     background-color: rgb(0, 166, 255);
@@ -10,4 +14,7 @@ header h5{
 }
 h5 span{
     color: rgb(117, 212, 244);
+}
+header h6{
+    color: grey;
 }
