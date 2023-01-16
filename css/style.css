@@ -3,4 +3,6 @@ header div{
     background-color: rgb(0, 166, 255);
     background-image: url(/img/pattern.png);
     background-size: contain;
+    margin: 0;
+    padding: 0;
 }
