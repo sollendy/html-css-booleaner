@@ -1,0 +1,93 @@
+body{
+    margin: 0;
+}
+
+#logo{
+    height: 100px;
+    width: 180px;
+    padding-top: 10px;
+}
+
+header div{
+    height: 80px;
+    background-color: rgb(0, 166, 255);
+    background-image: url(.../img/pattern.png);
+    background-size: contain;
+    margin-bottom: 10px;
+}
+
+.main-foot{
+    margin-left: 50px;
+}
+
+h5 span{
+    color: rgb(117, 212, 244);
+}
+
+main section h1{
+    margin-bottom: 3px;
+}
+
+main section h5{
+    margin: 0;
+    color: grey;
+}
+
+main section h6{
+    margin: 0;
+    color: grey;
+    margin-bottom: 15px;
+}
+
+#foto-lee img{
+    display: inline;
+}
+#foto-lee p{
+    color: grey;
+    font-size: xx-small;
+    margin: 0;
+}
+
+.evidenziati{
+    background-color: yellow;
+}
+
+table{
+    border-spacing: 0;
+    text-align: left;
+}
+
+thead{
+    background-color: rgb(0, 170, 255);
+
+}
+
+th{
+    color: white;
+}
+
+.righe-colorate{
+    background-color: rgb(47, 255, 234);
+}
+
+.primacol{
+    width: 20%;
+}
+
+#img1{
+    font-size: large;
+    color: white;
+    height: 200px;
+    width: 310px;
+    background-image: url(.../img/monitor.jpg);
+}
+
+#img2{
+    font-size: large;
+    color: white;
+    height: 200px;
+    width: 310px;
+    background-image: url(.../img/graph.jpg);
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
