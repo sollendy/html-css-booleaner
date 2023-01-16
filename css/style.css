@@ -39,3 +39,6 @@ main section h6{
     margin-bottom: 15px;
 }
 
+#foto-lee img{
+    display: inline-block;
+}
