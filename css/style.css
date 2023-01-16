@@ -27,3 +27,8 @@ h5 span{
 main section h5{
     color: grey;
 }
+
+main section h6{
+    color: grey;
+    margin-top: 5px;
+}
