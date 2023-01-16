@@ -8,3 +8,6 @@ header div{
 header h5{
     color: grey;
 }
+h5 span{
+    color: rgb(117, 212, 244);
+}
