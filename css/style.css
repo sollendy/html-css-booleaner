@@ -17,18 +17,25 @@ header div{
 }
 
 main{
-    margin-left: 5px;
+    margin-left: 15px;
 }
 
 h5 span{
     color: rgb(117, 212, 244);
 }
 
+main section h1{
+    margin-bottom: 3px;
+}
+
 main section h5{
+    margin: 0;
     color: grey;
 }
 
 main section h6{
+    margin: 0;
     color: grey;
-    /* margin-bottom: 5px; */
+    margin-bottom: 15px;
 }
+
